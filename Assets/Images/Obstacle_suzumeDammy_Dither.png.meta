@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 445f76c9751d46cda10ddd19a545bdc8
+timeCreated: 1642115812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Obstacle_suzumeDammy_Dither
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -108, y: -83}
+      - {x: -108, y: -14}
+      - {x: -99, y: -103}
+    - - {x: -99, y: 15}
+      - {x: -99, y: -103}
+      - {x: -108, y: -14}
+    - - {x: -34, y: -120}
+      - {x: -99, y: -103}
+      - {x: -99, y: 15}
+    - - {x: -67, y: 87}
+      - {x: -34, y: -120}
+      - {x: -99, y: 15}
+    - - {x: -47, y: 107}
+      - {x: -34, y: -120}
+      - {x: -67, y: 87}
+    - - {x: -33, y: 120}
+      - {x: -34, y: -120}
+      - {x: -47, y: 107}
+    - - {x: 43, y: -120}
+      - {x: -34, y: -120}
+      - {x: -33, y: 120}
+    - - {x: 33, y: 120}
+      - {x: 43, y: -120}
+      - {x: -33, y: 120}
+    - - {x: 41, y: 115}
+      - {x: 43, y: -120}
+      - {x: 33, y: 120}
+    - - {x: 70, y: 90}
+      - {x: 43, y: -120}
+      - {x: 41, y: 115}
+    - - {x: 100, y: -102}
+      - {x: 43, y: -120}
+      - {x: 70, y: 90}
+    - - {x: 108, y: -7}
+      - {x: 100, y: -102}
+      - {x: 70, y: 90}
+    - - {x: 108, y: -91}
+      - {x: 100, y: -102}
+      - {x: 108, y: -7}
+    physicsShape:    
+    - - {x: 76, y: -104}
+      - {x: 94, y: -103}
+      - {x: 100, y: -98}
+      - {x: 105, y: -88}
+      - {x: 108, y: -78}
+      - {x: 108, y: -18}
+      - {x: 106, y: -5}
+      - {x: 91, y: 28}
+      - {x: 79.99999, y: 44}
+      - {x: 72.99999, y: 68}
+      - {x: 66, y: 84}
+      - {x: 60, y: 91.99998}
+      - {x: 46, y: 107}
+      - {x: 40, y: 111}
+      - {x: 22, y: 120}
+      - {x: -19, y: 120}
+      - {x: -36, y: 114}
+      - {x: -49, y: 104}
+      - {x: -63, y: 89.99998}
+      - {x: -70, y: 75}
+      - {x: -76, y: 56}
+      - {x: -84, y: 37}
+      - {x: -98.99999, y: 11}
+      - {x: -104, y: -1.000008}
+      - {x: -108, y: -22.00001}
+      - {x: -108, y: -76}
+      - {x: -107, y: -84}
+      - {x: -101, y: -96}
+      - {x: -94, y: -103}
+      - {x: -69, y: -104}
+      - {x: -61, y: -108}
+      - {x: -43, y: -115}
+      - {x: -26, y: -120}
+      - {x: 26, y: -120}
+      - {x: 42, y: -117}
+      - {x: 60, y: -110}
+      - {x: 68, y: -104}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

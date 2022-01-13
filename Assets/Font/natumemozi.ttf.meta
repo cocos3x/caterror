@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4b48ee5b8ecb4b0c991fd717e7a5de0e
+timeCreated: 1642115843
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "natumemozi"
+  fontNames:
+  - Natsume
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

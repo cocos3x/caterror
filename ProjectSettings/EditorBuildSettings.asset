@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyGame/Scenes/TransitionManager/TransitionManager.unity
+    guid: 901d1ab743f31974f81373cc9e35812c
+  - enabled: 1
+    path: Assets/MyGame/Scenes/Main/Main.unity
+    guid: e036706ae28a01e4e8e833afebcb0517
+  - enabled: 1
+    path: Assets/MyGame/Scenes/AvatarDialog/AvatarDialog.unity
+    guid: 4a322ca514290d74c8fb8bacad2da10a
+  - enabled: 1
+    path: Assets/MyGame/Scenes/Gacha/Gacha.unity
+    guid: b02da335133d25e478e02c056deb0788
+  - enabled: 1
+    path: Assets/MyGame/Scenes/GetAvatarGachaDialog/GetAvatarGachaDialog.unity
+    guid: f289c901e5576de4790792237fcb1f4a
+  - enabled: 1
+    path: Assets/MyGame/Scenes/ContinueDialog/ContinueDialog.unity
+    guid: 341f61fd329ee9f4b8a7ac8dbb40967a
+  - enabled: 1
+    path: Assets/MyGame/Scenes/SettingsDialog/SettingsDialog.unity
+    guid: 1cae1dbaab65d1348a8e6aaebc038fd6
+  - enabled: 1
+    path: Assets/MyGame/Scenes/GetAvatarDialog/GetAvatarDialog.unity
+    guid: 8602de78b45bd064d9f5dd2c5696d010
+  - enabled: 1
+    path: Assets/MyGame/Scenes/LoginBonusDetailDialog/LoginBonusDetailDialog.unity
+    guid: 3e0839eea2c5c2846a5154da36db88e8
+  - enabled: 1
+    path: Assets/MyGame/Scenes/LoginBonusListDialog/LoginBonusListDialog.unity
+    guid: 89694ad1f760bd146a8cac3bfcd6e8bc
+  - enabled: 1
+    path: Assets/MyGame/Scenes/PurchaseInformationDialog/PurchaseInformationDialog.unity
+    guid: 3ce9370d5b93b8e419af8d070b322b63
+  - enabled: 1
+    path: Assets/MyGame/Scenes/ApplicationExitConfirmDialog/ApplicationExitConfirmDialog.unity
+    guid: fb912f88a7ac49046af762d21e794544
+  - enabled: 1
+    path: Assets/MyGame/Scenes/DebugOption/DebugOption.unity
+    guid: 290e1b1d693814243ad0525173d36649

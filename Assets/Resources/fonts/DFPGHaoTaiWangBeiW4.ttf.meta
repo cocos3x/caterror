@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3b9981de997c4929bbaf573cb1cbb59a
+timeCreated: 1642115825
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "DFPGHaoTaiWangBeiW4"
+  fontNames:
+  - DFPGYuan-Md
+  - DFPGHaoTaiWangBeiW4
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
